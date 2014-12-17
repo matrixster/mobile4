@@ -1,0 +1,18 @@
+<data>
+	<item id="[@customername]">
+		<option>Customer name</option>
+		</item>
+	<item id="[@customerno]">
+		<option>Customer number</option>
+	</item>
+	<item id="[@product]">
+		<option>Product</option>
+	</item>
+	<item id="[@billamount]">
+		<option>Bill Amount</option>
+	</item>
+	<item id="[@billdate]">
+		<option>Next bill Date</option>
+	</item>
+	
+</data>	
