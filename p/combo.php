@@ -1,13 +1,14 @@
 <?php
+/****************CATEGORY DATA**********************/
 session_start();
 //echo getCombo('post');
 
 function getCombo($id){
 $combo=array();	
 
-$host="41.242.2.139";
+$host="44.242.2.139";
 $user="wavuh_admin";
-$pass="Wavuh456";
+$pass="@Wavuh456";
 $dbase="wavuh_456";
 
 mysql_connect($host,$user,$pass) or die("connect failed ");

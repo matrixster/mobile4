@@ -1,7 +1,7 @@
-<?php include('./p/forms.php');
-	  	 include('./p/comboInit.php'); 
+<?php
+include('./p/forms.php');
+include('./p/comboInit.php'); 
 ?>
-
 <!DOCTYPE HTML>
 <html>
 	<head>
