@@ -1,8 +1,7 @@
 <?php 
  include('combo.php');
  require_once('config.php');
- 
- ?>
+  ?>
 <script>
 
 function getForm(id){

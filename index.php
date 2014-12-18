@@ -185,7 +185,7 @@ body {
 </head>
  
 <body>
-    <form id="slick-login" method="POST">
+    <form id="slick-login" method="POST" action="home.php">
     	<img src="./img/logo.jpg"></br></br>
     	<?php if (!empty($qti_error)) { echo "<b><span style='color:red'>Login failed. Try again.</span></b>"; }?>
     	<?php if ($l=='demo') { echo "<b><span style='font-size: 10pt; color:white'>Demo: username: admin </br> password:@admin</span></b>"; }?>

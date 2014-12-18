@@ -16,7 +16,7 @@ echo '<data>';
 require_once('../p/config.php');
 //require_once('../x/bin/w_init.php');
 
-$profile=9;
+$profile=2;
 if ($oVIP->sme!=true) {
 	//output data from DB as XML
 	$sql = "SELECT DISTINCT F.Module_ID, Module FROM form_rights R 

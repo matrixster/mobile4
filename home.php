@@ -1,8 +1,6 @@
-
-      <?php include('./p/forms.php');
+<?php include('./p/forms.php');
 	  	 include('./p/comboInit.php'); 
-
-	 ?>
+?>
 
 <!DOCTYPE HTML>
 <html>
